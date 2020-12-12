@@ -1,0 +1,16 @@
+{
+  "name": "math-symbols",
+  "version": "0.0.0",
+  "description": "Helo friends DISCO phod do",
+  "keywords": [
+    "disco",
+    "symbols",
+    "math",
+    "compre"
+  ],
+  "repository": "https://github.com/aryan02420/math-symbols",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

@@ -1,0 +1,82 @@
+'.text.plain':
+  '∨':
+    'prefix': 'or'
+    'body': '∨'
+  '∧':
+    'prefix': 'and'
+    'body': '∧'
+  '¬':
+    'prefix': 'not'
+    'body': '¬'
+  '∀':
+    'prefix': 'forall'
+    'body': '∀'
+  '∃':
+    'prefix': 'thereexists'
+    'body': '∃'
+  '∄':
+    'prefix': 'theredoesnotexist'
+    'body': '∄'
+  '→':
+    'prefix': 'implies'
+    'body': '→'
+  '↔':
+    'prefix': 'biimplication'
+    'body': '↔'
+  '∴':
+    'prefix': 'therefore'
+    'body': '∴'
+  '∵':
+    'prefix': 'since'
+    'body': '∵'
+  'φ':
+    'prefix': 'phi'
+    'body': 'φ'
+  'ψ':
+    'prefix': 'psi'
+    'body': 'ψ'
+  '⋂':
+    'prefix': 'intersection'
+    'body': '⋂'
+  '⋃':
+    'prefix': 'union'
+    'body': '⋃'
+  '⊆':
+    'prefix': 'subset'
+    'body': '⊆'
+  '⊂':
+    'prefix': 'propersubset'
+    'body': '⊂'
+  '⊄':
+    'prefix': 'notsubset'
+    'body': '⊄'
+  '⊇':
+    'prefix': 'superset'
+    'body': '⊇'
+  '⊃':
+    'prefix': 'propersuperset'
+    'body': '⊃'
+  '⊅':
+    'prefix': 'notsuperset'
+    'body': '⊅'
+  '∈':
+    'prefix': 'belongsto'
+    'body': '∈'
+  '∉':
+    'prefix': 'notbelongsto'
+    'body': '∉'
+  'ℕ':
+    'prefix': 'natural'
+    'body': 'ℕ'
+  'ℤ':
+    'prefix': 'integer'
+    'body': 'ℤ'
+  'ℚ':
+    'prefix': 'rational'
+    'body': 'ℚ'
+  'ℝ':
+    'prefix': 'real'
+    'body': 'ℝ'
+  'ℂ':
+    'prefix': 'complex'
+    'body': 'ℂ'
